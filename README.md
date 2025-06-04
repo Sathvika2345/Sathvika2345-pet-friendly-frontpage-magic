@@ -53,5 +53,24 @@ This project is a vibrant, responsive homepage for the **Pet-Friendly City Campa
 
 ---
 
-## 📂 File Structure
+
+---
+
+## 📹 Screen Recording
+
+> ✅ https://drive.google.com/file/d/1AyFIwSm07MV-7OpIlNp19FD3Dwx_aL0Z/view?usp=sharing
+
+---
+
+## ✍️ Author Notes
+
+This homepage was built to reflect the *energy*, *empathy*, and *enthusiasm* of our furry friends and the humans helping them. It’s simple, smooth, and speaks the language of pawsitive action!
+
+*Made with code, coffee, and care.* ☕🐶💻
+
+---
+
+
+
+
 
